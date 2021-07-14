@@ -9,7 +9,7 @@
     <h2>GIT - MAVEN - JENKINS - DOCKER - 21052021...</h2>
       <h2>GIT - MAVEN - JENKINS - DOCKER - CI DONE - 21052021...</h2>
   <h2>GIT - TEST LATEST DATE COMMIT - 14 July 2021</h2>
-  <h2>GIT - TEST LATEST BUILD USING PIPELINE - 14 July 2021</h2>
+  <h2>GIT - TEST LATEST BUILD USING PIPELINE - 14 July 2021 - Corrected after 10 attempts</h2>
   
   
   
